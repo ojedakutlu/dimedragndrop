@@ -24,6 +24,8 @@ margin: auto;
 		height:450px;
 		border:1px solid #317082;
 		background-color:#FFF;
+		opacity: 0.8;
+	 filter: alpha(opacity=60);
 		-moz-user-select:none;
 	}
 	#dhtmlgoodies_dragDropContainer ul{	/* General rules for all <ul> */
